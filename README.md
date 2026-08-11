@@ -41,6 +41,7 @@ A single-page portfolio site (Senior DevOps & Cloud Engineer), ready to host for
 
 ## 📁 Files
 - `index.html` — the full portfolio page (self-contained: all CSS is inline, fonts load from Google Fonts CDN)
+- `Tufan_Kar_Resume.pdf` — downloadable resume, linked from the nav bar, hero, and contact section
 
 ## ✏️ Making edits later
 Just edit `index.html` directly (in GitHub's web editor, or locally) and push/commit — GitHub Pages redeploys automatically within a minute or two.
